@@ -1,5 +1,3 @@
-# projeto-exemplo
-
 Olá, eu sou Jônatas 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul, com objetivo de construir uma carreira sólida em tecnologia. Tenho facilidade de aprendizado e busco aplicar minhas habilidades em comunicação, organização e resolução de problemas em projetos inovadores de TI.
